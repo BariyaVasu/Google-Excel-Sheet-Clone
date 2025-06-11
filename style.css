@@ -69,6 +69,10 @@ body{
     color: black;
 }
 
+.cell:hover{
+    background-color: #4e8a8a7d;
+}
+
 .row-header{
     grid-column: 1;
     background: #edf2f7;
